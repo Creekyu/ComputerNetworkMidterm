@@ -1,0 +1,15 @@
+﻿  Main.cpp
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(60,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(61,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(76,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(77,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(1849): message : 参见“inet_ntoa”的声明
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(102,14): warning C4244: “初始化”: 从“SOCKET”转换到“unsigned int”，可能丢失数据
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(117,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2219): message : 参见“gethostbyname”的声明
+C:\Users\50309\source\repos\IPPack\IPPack\Main.cpp(162,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 参见“kbhit”的声明
+  IPPack.vcxproj -> C:\Users\50309\source\repos\IPPack\x64\Debug\IPPack.exe
